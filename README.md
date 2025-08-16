@@ -1,3 +1,3 @@
 # Penn flowers
-Pretty flowers penn
+Pretty flowers
 GLOWING FLOWERS USING HTML AND CSS
